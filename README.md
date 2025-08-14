@@ -42,17 +42,7 @@ A React Native mobile application for discovering trending movies, searching the
    npm install
    ```
 
-3. **Set up environment variables**
-   Create a `.env` file in the root directory:
-   ```env
-   EXPO_PUBLIC_MOVIE_API_KEY=your_tmdb_api_key
-   EXPO_PUBLIC_APPWRITE_ENDPOINT=your_appwrite_endpoint
-   EXPO_PUBLIC_APPWRITE_PROJECT_ID=your_project_id
-   EXPO_PUBLIC_APPWRITE_DATABASE_ID=your_database_id
-   EXPO_PUBLIC_APPWRITE_COLLECTION_ID=your_collection_id
-   ```
-
-4. **Start the development server**
+3. **Start the development server**
    ```bash
    npx expo start
    ```
