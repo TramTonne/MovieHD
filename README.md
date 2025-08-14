@@ -81,64 +81,11 @@ mobile_movie_app/
 └── README.md
 ```
 
-## 🌟 Key Features
 
-### Home Screen
-- Displays trending movies in a horizontal scroll
-- Shows latest movies in a grid layout
-- Quick search access
 
-### Search Screen
-- Real-time movie search
-- Debounced search input
-- Search history tracking
 
-### Saved Movies
-- View saved/favorite movies
-- Filter options (All, Recent, Favorites)
-- Remove movies from saved list
 
-### Profile Screen
-- User statistics
-- App settings
-- Account management
 
-## 🔧 API Configuration
 
-### TMDB API
-1. Get your API key from [TMDB](https://www.themoviedb.org/settings/api)
-2. Add it to your `.env` file
 
-### Appwrite Setup
-1. Create an account at [Appwrite](https://appwrite.io)
-2. Create a new project
-3. Set up a database and collection
-4. Add your credentials to `.env`
 
-## 📸 Screenshots
-
-[Add screenshots of your app here]
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [The Movie Database (TMDB)](https://www.themoviedb.org) for the movie data
-- [Expo](https://expo.dev) for the development platform
-- [Appwrite](https://appwrite.io) for the backend services
-
-## 📞 Contact
-
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/mobile_movie_app](https://github.com/yourusername/mobile_movie_app)
