@@ -33,7 +33,7 @@ A React Native mobile application for discovering trending movies, searching the
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mobile_movie_app.git
+   git clone https://github.com/tramtonne/mobile_movie_app.git
    cd mobile_movie_app
    ```
 
